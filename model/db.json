@@ -1,0 +1,45 @@
+{
+  "messages": [
+    {
+      "name": "Александра",
+      "email": "aleksandra@gmail.com",
+      "message": "Тестове повідомлення"
+    }
+  ],
+  "skills": {
+    "age": {
+      "number": "33",
+      "text": "Возраст начала занятий на скрипке"
+    },
+    "concerts": {
+      "number": "7",
+      "text": "Концертов отыграл"
+    },
+    "cities": {
+      "number": "12",
+      "text": "Максимальное число городов в туре"
+    },
+    "years": {
+      "number": "9",
+      "text": "Лет на сцене в качестве скрипача"
+    }
+  },
+  "auth": {
+    "admin": {
+      "email": "test@mail.com",
+      "pass": "pa$$w0rd"
+    }
+  },
+  "products": [
+    {
+      "src": "\\upload\\Work8.jpg",
+      "name": "Морковь",
+      "price": "20"
+    },
+    {
+      "src": "\\upload\\Work5.jpg",
+      "name": "Комплект одежды",
+      "price": "1500"
+    }
+  ]
+}
